@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Dalia!</h1>
 
-<!--
-**DaliaGamal11/DaliaGamal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Engineer | Business Analysis and RPA Specialist  | Technical Talent Acquisition Specialist
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 I studied *Software Engineering* at Cairo university 
+- 💡 I enjoy solving problems & building user-friendly interfaces
+- 🌱 Currently learning Business analysis and RPA at information technology institute (iti) , and sharpening my GitHub workflow
+- 🎯 Passionate about tech, creativity, and helping others
+- 🛠 I love turning ideas into real projects
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaliaGamal11&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://www.linkedin.com/in/dalia-gamal-a95092232/)  
+[![Portfolio](https://daliagamal11.github.io/index.html)
+
+---
+
+<p align="center">✨ Let's build something amazing together ✨</p>
