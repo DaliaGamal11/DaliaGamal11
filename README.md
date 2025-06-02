@@ -26,8 +26,8 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://www.linkedin.com/in/dalia-gamal-a95092232/)  
-[![Portfolio](https://daliagamal11.github.io/index.html)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/dalia-gamal-a95092232/)]
+[![Portfolio](https://img.shields.io/badge/-MyPortfolio-black?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com(https://daliagamal11.github.io/index.html)
 
 ---
 
