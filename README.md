@@ -2,7 +2,7 @@
 <h3 align="center">I’m Dalia - Process Automation And Data Solutions Specialist | Software Engineer | Business Analyst</h3>
 
 <p align="center">
-    Turning ideas into <strong>smart automation</strong> & <strong>impactful solutions</strong> <br>
+    🔹Turning ideas into <strong>smart automation</strong> and <strong>impactful solutions</strong> <br> 🔹
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🛠 **Software Engineering** – Building robust, user-friendly applications.  
 - 📊 **Business Analysis** – Translating requirements into clear, actionable solutions.  
-- 🤖 **Process Automation & Data Solutions** – Crafting workflows that feel like magic(smarter, faster, and reliable).  
+- 🤖 **Process Automation and Data Solutions** – Crafting workflows that feel like magic(smarter, faster, and reliable).  
 - 🎨 **Creative Side** – Infusing art and design thinking into technology for elegant, functional solutions.  
 
 
