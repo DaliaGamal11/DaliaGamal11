@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Dalia!</h1>
 
 <p align="center">
-  💻 Software Engineer | Business Analysis and RPA Specialist  | Technical Talent Acquisition Specialist
+  💻 Robotic Process Automation Developer (ITI)  | Business Analysis (ITI) | Software Engineer
 </p>
 
 ---
