@@ -1,5 +1,5 @@
-<h1 align="center">✨ Dalia Gamal ✨</h1>
-<h3 align="center">💻 Process Automation And Data Solutions Specialist | Software Engineer | Business Analyst</h3>
+<h1 align="center">👋 Hey there, welcome to my creative corner!</h1>
+<h3 align="center">I’m Dalia - Process Automation And Data Solutions Specialist | Software Engineer | Business Analyst</h3>
 
 <p align="center">
   🔹 Turning ideas into <strong>smart automation</strong> & <strong>impactful solutions</strong> <br>
