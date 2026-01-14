@@ -8,14 +8,14 @@
 </p>
 
 ---
-<p align="center">
+
 ### 👩‍💻 What I Do
 
 - 🛠 **Software Engineering** – Building robust, user-friendly applications.  
 - 📊 **Business Analysis** – Translating requirements into clear, actionable solutions.  
 - 🤖 **Process Automation & Data Solutions** – Optimizing workflows to be smarter, faster, and more reliable.  
 - 🎨 **Creative Side** – Infusing art and design thinking into technology for elegant, functional solutions.  
-</p>
+
 
 ---
 <p align="center">
