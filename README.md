@@ -1,9 +1,9 @@
-<h1 align="center">💻🎨 Dalia Gamal – Process Automation & Data Solutions Specialist | Software Engineer | Business Analyst  </h1>
+<h1 align="center"> Dalia Gamal – Process Automation And Data Solutions Specialist | Software Engineer | Business Analyst  </h1>
 
 <p align="center">
   🔹 Turning ideas into <strong>smart automation</strong> & <strong>impactful solutions</strong>  
-  📚 Lover of books & 🎨 art-inspired tech  
-  🚀 Crafting workflows that work like magic
+  🔹 Lover of books & 🎨 art-inspired tech  
+  🔹 Crafting workflows that work like magic
 </p>
 
 ---
@@ -32,4 +32,4 @@
 
 ---
 
-<p align="center">✨ Where <strong>technology meets creativity</strong> — building solutions that shine 🚀</p>
+<p align="center"> Where <strong>technology meets creativity</strong> — building solutions that shine ✨ </p>
