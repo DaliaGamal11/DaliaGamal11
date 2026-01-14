@@ -1,18 +1,19 @@
-<h1 align="center">Hey there 👋, I'm Dalia!</h1>
+<h1 align="center">💻🎨 Dalia Gamal – Process Automation & Data Solutions Specialist | Software Engineer | Business Analyst  </h1>
 
 <p align="center">
-  💻 Robotic Process Automation Developer (ITI)  | Business Analysis (ITI) | Software Engineer
+  🔹 Turning ideas into <strong>smart automation</strong> & <strong>impactful solutions</strong>  
+  📚 Lover of books & 🎨 art-inspired tech  
+  🚀 Crafting workflows that work like magic
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 What I Do
 
-- 🎓 I studied *Software Engineering* at Cairo university 
-- 💡 I enjoy solving problems & building user-friendly interfaces
-- 🌱 Currently learning Business analysis and RPA at information technology institute (iti) , and sharpening my GitHub workflow
-- 🎯 Passionate about tech, creativity, and helping others
-- 🛠 I love turning ideas into real projects
+- 🛠 **Software Engineering:** Building robust, user-friendly applications.  
+- 📊 **Business Analysis:** Transforming requirements into clear, actionable solutions.  
+- 🤖 **Process Automation & Data Solutions:** Making workflows smarter, faster, and more reliable.  
+- 🎨 **Creative Side:** Integrating art & creativity into tech for elegant, functional designs.  
 
 ---
 
@@ -24,12 +25,11 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/DaliaGamal](https://www.linkedin.com/in/dalia-gamal-a95092232/)]
-
-[![Portfolio](https://img.shields.io/badge/-MyPortfolio-black?style=flat&logo=github&logoColor=white)]([https://my-portfolio.com](https://daliagamal11.github.io)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-gamal-a95092232/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://daliagamal11.github.io)  
 
 ---
 
-<p align="center"> Let's build something amazing together ✨</p>
+<p align="center">✨ Where <strong>technology meets creativity</strong> — building solutions that shine 🚀</p>
