@@ -1,8 +1,9 @@
-<h1 align="center"> Hey there, welcome to my creative corner👋 </h1>
+<h1 align="center"> Hey there, Welcome to my creative corner👋 </h1>
 <h3 align="center">I’m Dalia - Process Automation And Data Solutions Specialist | Software Engineer | Business Analyst</h3>
 
 <p align="center">
-    🔹Turning ideas into <strong>smart automation</strong> and <strong>impactful solutions</strong> <br>🔹</p>
+    🔹Turning ideas into <strong>smart automation</strong> and <strong>impactful solutions</strong>🔹 <br>
+</p>
 
 ---
 
