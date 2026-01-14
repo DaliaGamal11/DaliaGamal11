@@ -14,25 +14,13 @@
 - 🛠 **Software Engineering** – Building robust, user-friendly applications.  
 - 📊 **Business Analysis** – Translating requirements into clear, actionable solutions.  
 - 🤖 **Process Automation & Data Solutions** – Optimizing workflows to be smarter, faster, and more reliable.  
-- 🎨 **Creative Side** – Infusing art & design thinking into technology for elegant, functional solutions.  
+- 🎨 **Creative Side** – Infusing art and design thinking into technology for elegant, functional solutions.  
+
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaliaGamal11&show_icons=true&theme=radical" />
-</p>
+### 🌐 Connect with Me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-gamal-a95092232/) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://daliagamal11.github.io)
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-gamal-a95092232/)  
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://daliagamal11.github.io)
-</p>
-
----
-
-<p align="center">✨ Where <strong>technology meets creativity</strong> — building solutions that shine 🚀</p>
+<p align="center"> Where <strong>technology meets creativity</strong> — building solutions that shine ✨  </p>
