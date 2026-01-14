@@ -18,9 +18,9 @@
 
 
 ---
-<p align="center">
+
 ### 🌐 Connect with Me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-gamal-a95092232/) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://daliagamal11.github.io)
-</p>
+
 ---
 
 <p align="center"> Where <strong>technology meets creativity</strong> — building solutions that shine ✨  </p>
